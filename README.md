@@ -1,6 +1,6 @@
 # Intro to IP Telephony Overview Guide
 
-**TODO:** A brief overview of IP telephony and VoIP.
+**Description/Overview:** Voice over Internet Protocol (VoIP) empowers users and organizations to hold low cost phone calls using the internet (hence the term 'internet telephony', which is still in use today but has widely become synonymous with 'VoIP'). Setting up a VoIP enabled phone system allows for the sending and receiving of international and local calls via a standard that has become as simple to understand in principle as mobile messaging and social media direct messaging systems.
 
 #### Table of Contents
 
