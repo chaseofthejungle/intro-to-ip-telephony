@@ -20,6 +20,12 @@
 
 ## 1. <a name="voip">Voice over IP (VoIP): How It Works</a>
 
+**Three common methods for implementing VoIP include:**
+
+* *Computer-to-Computer:* Requires a (quality) sound card and software, a microphone (built-in or peripheral), and perhaps a headseat or earbuds.
+* *Using an IP Telephone:* Although these resemble phone systems of the past, they are connected directly to a computer and (often) are prepared with software and hardware for connecting to a server or router. They use RJ-45 (Ethernet port) connectors.
+* *Using an Analog Telephone Adapter (ATA):* These make traditional telephone to computer connections (for placing VoIP phone calls) plausible. This involves converting the phone's analog signal into digital data (for internet data transfer purposes). They rely on RJ-11 connectors.
+
 <hr />
 
 ## 2. <a name="benefits">VoIP: Benefits</a>
