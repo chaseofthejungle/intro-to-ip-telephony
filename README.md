@@ -65,3 +65,7 @@
 <hr />
 
 ## 11. <a name="supplemental">Supplemental Resources</a>
+
+* *[Cisco IP Phones Official Webpage](https://www.cisco.com/c/en/us/products/collaboration-endpoints/ip-phones/index.html)*
+* *[Avaya IP Phones Official Webpage](https://www.avaya.com/en/devices-and-phones/)*
+* *[Zoom Cloud VoIP Phone Services Official Webpage](https://www.zoom.com/en/products/voip-phone-new/)*
