@@ -5,16 +5,17 @@
 #### Table of Contents
 
 1. [Voice over IP (VoIP): How It Works](#voip)
-2. [VoIP: Benefits](#benefits)
-3. [VoIP: On-Premises vs. Cloud](#hosting)
-4. [VoIP Terms](#terms)
-5. [How to Build VoIP](#build)
-6. [Evaluating the Vendors](#vendors)
-7. [Avaya IP Office](#avaya)
-8. [Signaling Protocols](#signal)
-9. [Quality of Service (QoS)](#qos)
-10. [Voice Compression Channels](#channels)
-11. [Supplemental Resources](#supplemental)
+2. [A Little More About Session Initiation Protocol (SIP)](#sip)
+3. [VoIP: Benefits](#benefits)
+4. [VoIP: On-Premises vs. Cloud](#hosting)
+5. [VoIP Terms](#terms)
+6. [How to Build VoIP](#build)
+7. [Evaluating the Vendors](#vendors)
+8. [Avaya IP Office](#avaya)
+9. [Signaling Protocols](#signal)
+10. [Quality of Service (QoS)](#qos)
+11. [Voice Compression Channels](#channels)
+12. [Supplemental Resources](#supplemental)
 
 <hr />
 
@@ -28,43 +29,47 @@
 
 <hr />
 
-## 2. <a name="benefits">VoIP: Benefits</a>
+## 2. <a name="sip"A Little More About Session Initiation Protocol (SIP)</a>
 
 <hr />
 
-## 3. <a name="hosting">VoIP: On-Premises vs. Cloud</a>
+## 3. <a name="benefits">VoIP: Benefits</a>
 
 <hr />
 
-## 4. <a name="terms">VoIP Terms</a>
+## 4. <a name="hosting">VoIP: On-Premises vs. Cloud</a>
 
 <hr />
 
-## 5. <a name="build">How to Build VoIP</a>
+## 5. <a name="terms">VoIP Terms</a>
 
 <hr />
 
-## 6. <a name="vendors">Evaluating the Vendors</a>
+## 6. <a name="build">How to Build VoIP</a>
 
 <hr />
 
-## 7. <a name="avaya">Avaya IP Office</a>
+## 7. <a name="vendors">Evaluating the Vendors</a>
 
 <hr />
 
-## 8. <a name="signal">Signaling Protocols</a>
+## 8. <a name="avaya">Avaya IP Office</a>
 
 <hr />
 
-## 9. <a name="qos">Quality of Service (QoS)</a>
+## 9. <a name="signal">Signaling Protocols</a>
 
 <hr />
 
-## 10. <a name="channels">Voice Compression Channels</a>
+## 10. <a name="qos">Quality of Service (QoS)</a>
 
 <hr />
 
-## 11. <a name="supplemental">Supplemental Resources</a>
+## 11. <a name="channels">Voice Compression Channels</a>
+
+<hr />
+
+## 12. <a name="supplemental">Supplemental Resources</a>
 
 * *[Cisco IP Phones Official Webpage](https://www.cisco.com/c/en/us/products/collaboration-endpoints/ip-phones/index.html)*
 * *[Avaya IP Phones Official Webpage](https://www.avaya.com/en/devices-and-phones/)*
