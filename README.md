@@ -56,9 +56,11 @@
 
 *Session Initiation Protocol (SIP)* defines how interfaces connect over high-speed IP networks for conducting live discussions. It provides a 'digital handshake' process for starting (initiating calls after negotiating parameters/terms of connections) and finishing conversations. In other words, SIP orchestrates video and/or audio transfer for video chats, phone calls, instant messaging systems, and even online games and conference bridges... and does so in real-time.
 
-SIP operates as VoIP's popular signaling protocol, allowing for devices to not just connect for sessions (unique instances of communications between parties) but for sessions to be modified and ended as is appropriate. This means transitioning from phone lines as a standard for business communications in exchange for more complex IP-based communications systems.
+SIP operates as VoIP's popular signaling protocol, allowing for devices to not just connect for sessions (unique instances of communications between parties) but for sessions to be modified and ended as is appropriate. This means migrating from the traditional Private Branch Exchange (PBX) phone line system as a standard for business communications, in favor of utilizing more advanced and efficient IP-based communications systems. SIP features various other benefits, including high scalability, secure protocols, support for a unified communications platform (integrating video, audio, instant messaging, and other forms of communication), cost-efficiency (by relying on previously installed network infrastructure), and significant portability (allowing for switching between interfaces without disruption).
 
-SIP is included with VoIP because it allows for call setups, call transfers, and seamless communications to happen.
+SIP is included with VoIP because it allows for call setups, call transfers, and seamless communications to happen. SIP relays VoIP data traffic over UDP or TCP, via ports 5060 and 5061.
+
+Important RFC documents concerning SIP include [RFC 2543](https://datatracker.ietf.org/doc/html/rfc2543) (proposal) and [RFC 3261](https://datatracker.ietf.org/doc/html/rfc3261) (standardization).
 
 <hr />
 
