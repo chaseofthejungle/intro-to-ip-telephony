@@ -10,8 +10,8 @@
 4. [VoIP Terms](#terms)
 5. [How to Build VoIP](#build)
 6. [Evaluating the Vendors](#vendors)
-7. [Avaya IP Office](#avaya)
-8. [Session Initiation Protocol (SIP)](#sip)
+7. [Session Initiation Protocol (SIP)](#sip)
+8. [Avaya IP Office](#avaya)
 9. [Quality of Service (QoS)](#qos)
 10. [Voice Compression Channels](#channels)
 11. [Supplemental Resources](#supplemental)
@@ -48,11 +48,7 @@
 
 <hr />
 
-## 7. <a name="avaya">Avaya IP Office</a>
-
-<hr />
-
-## 8. <a name="sip">Session Initiation Protocol (SIP)</a>
+## 7. <a name="sip">Session Initiation Protocol (SIP)</a>
 
 *Session Initiation Protocol (SIP)* defines how interfaces connect over high-speed IP networks for conducting live discussions. It provides a 'digital handshake' process for starting (initiating calls after negotiating parameters/terms of connections) and finishing conversations. In other words, SIP orchestrates video and/or audio transfer for video chats, phone calls, instant messaging systems, and even online games and conference bridges... and does so in real-time.
 
@@ -61,6 +57,13 @@ SIP operates as VoIP's popular signaling protocol, allowing for devices to not j
 SIP is included with VoIP because it allows for call setups, call transfers, and seamless communications to happen. SIP relays VoIP data traffic over UDP or TCP, via ports 5060 and 5061.
 
 Important RFC documents concerning SIP include [RFC 2543](https://datatracker.ietf.org/doc/html/rfc2543) (proposal) and [RFC 3261](https://datatracker.ietf.org/doc/html/rfc3261) (standardization).
+
+<hr />
+
+## 8. <a name="avaya">Avaya IP Office</a>
+
+*Avaya IP Office* is an example of a popular IP telephony convergence system that merges elements of classic automated PBX solutions with contemporary IP telephony. IP Office supports and integrates such technologies as Plain Old Telephone Service (POTs), Public Switched Telephone Networks (PSTNs), Digital Time-Division Multiplexed (TDM) phones, IP phones, and SIP. IP Office operates by connecting to a PSTN and IP trunks, fusing legacy and contemporary technologies to keep costs low and optimize the efficiency of data and voice communications. Phones are controlled by users via apps on their devices, data are routed from LAN devices to telephony-based trunk devices, and
+voice communications traffic is routed via both internal and external data links (and, therefore, VoIP).
 
 <hr />
 
