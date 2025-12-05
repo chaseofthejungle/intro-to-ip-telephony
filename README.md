@@ -30,21 +30,31 @@
 
 ## 2. <a name="benefits">VoIP: Benefits</a>
 
+(TODO)
+
 <hr />
 
 ## 3. <a name="hosting">VoIP: On-Premises vs. Cloud</a>
+
+(TODO)
 
 <hr />
 
 ## 4. <a name="terms">VoIP Terms</a>
 
+(TODO)
+
 <hr />
 
 ## 5. <a name="build">How to Build VoIP</a>
 
+(TODO)
+
 <hr />
 
 ## 6. <a name="vendors">Evaluating the Vendors</a>
+
+(TODO)
 
 <hr />
 
@@ -69,9 +79,13 @@ voice communications traffic is routed via both internal and external data links
 
 ## 9. <a name="qos">Quality of Service (QoS)</a>
 
+(TODO)
+
 <hr />
 
 ## 10. <a name="channels">Voice Compression Channels</a>
+
+(TODO)
 
 <hr />
 
